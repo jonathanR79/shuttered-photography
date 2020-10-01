@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.30",
-    "@fortawesome/free-brands-svg-icons": "5.14.0",
-    "@fortawesome/free-solid-svg-icons": "5.14.0",
+    "@fortawesome/fontawesome-svg-core": "1.2.31",
+    "@fortawesome/free-brands-svg-icons": "5.15.0",
+    "@fortawesome/free-solid-svg-icons": "5.15.0",
     "@fortawesome/react-fontawesome": "0.1.11",
     "babel-polyfill": "6.26.0",
     "gatsby": "2.24.57",
