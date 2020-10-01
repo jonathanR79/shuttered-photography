@@ -27,7 +27,7 @@
     "gatsby-source-filesystem": "2.3.29",
     "gatsby-transformer-remark": "2.8.34",
     "gatsby-transformer-sharp": "2.5.14",
-    "netlify-cms": "2.10.56",
+    "netlify-cms": "2.10.61",
     "node-sass": "4.14.1",
     "react": "16.13.1",
     "react-anchor-link-smooth-scroll": "1.0.12",
