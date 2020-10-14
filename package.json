@@ -29,9 +29,9 @@
     "gatsby-transformer-sharp": "2.5.16",
     "netlify-cms": "2.10.61",
     "node-sass": "4.14.1",
-    "react": "16.13.1",
+    "react": "16.14.0",
     "react-anchor-link-smooth-scroll": "1.0.12",
-    "react-dom": "16.13.1",
+    "react-dom": "16.14.0",
     "react-helmet": "6.1.0",
     "react-load-script": "0.0.6"
   },
